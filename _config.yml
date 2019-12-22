@@ -24,7 +24,7 @@ description              : "La Inteligencia Artifical está de moda, cada día s
 url                      : https://mariagumbao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /el-mundo-de-las-ias # the subpath of your site, e.g. "/blog"
 repository               : mariagumbao/el-mundo-de-las-ias # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/img/bb8.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/bb8.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
