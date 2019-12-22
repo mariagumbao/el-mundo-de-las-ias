@@ -23,16 +23,16 @@ name                     : "María García Gumbao"
 description              : "La Inteligencia Artifical está de moda, cada día se publican miles de artículos sobre el tema, pero muy pocos de ellos son en español, ¿por qué?. Este blog nace con el objetivo de cubrir ese vacío de información en español, porque la IA ya es suficientemente complicada como para tener que leer sobre ella siempre en inglés"
 url                      : https://mariagumbao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /el-mundo-de-las-ias # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : mariagumbao/el-mundo-de-las-ias # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : /assets/img/bb8.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : mariagumbao # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
