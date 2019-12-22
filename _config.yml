@@ -93,9 +93,11 @@ og_image                 : /assets/images/BB8.png # Open Graph/Twitter default s
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : María García Gumbao# If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - www.instagram.com/mariagumbao
+    - www.linkedin.com/in/mariagumbao
 
 # Analytics
 analytics:
