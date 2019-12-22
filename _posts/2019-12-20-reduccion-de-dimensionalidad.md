@@ -7,6 +7,7 @@ post_url: "2019-12-20-reduccion-de-dimensionalidad"
 categories:  [Algoritmos]
 tags: [Machine Learning, Reducción de dimensionalidad, Algoritmos, Preprocesamiento]
 [//]: # (description: "Una introducción al concepto de reducción de dimensionalidad, por qué y los tipos de técnicas existentes")
+mathjax: true
 ---
 
 ¿Qué es?
