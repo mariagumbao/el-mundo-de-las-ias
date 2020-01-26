@@ -96,7 +96,7 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : María García Gumbao # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    [www.instagram.com/mariagumbao.
+    [www.instagram.com/mariagumbao,
     www.linkedin.com/in/mariagumbao]
 
 # Analytics
@@ -110,9 +110,9 @@ analytics:
 # Site Author
 author:
   name             : "María García Gumbao"
-  avatar           : /assets/images/yo.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/yo_recortada.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "."
-  location         : "En cualquier lugar"
+  location         : "Barcelona"
   email            : maria.gumbao@gmail.com
   links:
     - label: "Email"
