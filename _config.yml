@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
 title                    : "El mundo de las IAs"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : El blog de referencia sobre Inteligencia Artificial en español# site tagline that appears below site title in masthead
 name                     : "María García Gumbao"
 description              : "La Inteligencia Artifical está de moda, cada día se publican miles de artículos sobre el tema, pero muy pocos de ellos son en español, ¿por qué?. Este blog nace con el objetivo de cubrir ese vacío de información en español, porque la IA ya es suficientemente complicada como para tener que leer sobre ella siempre en inglés"
 url                      : https://mariagumbao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,7 +94,7 @@ og_image                 : /assets/images/BB8.png # Open Graph/Twitter default s
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : María García Gumbao# If the user or organization name differs from the site's name
+  name                   : María García Gumbao # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - www.instagram.com/mariagumbao
     - www.linkedin.com/in/mariagumbao
