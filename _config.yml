@@ -96,8 +96,8 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : María García Gumbao # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    [www.instagram.com/mariagumbao,
-    www.linkedin.com/in/mariagumbao]
+   - www.instagram.com/mariagumbao
+   - www.linkedin.com/in/mariagumbao
 
 # Analytics
 analytics:
