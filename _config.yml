@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "María García Gumbao"
   avatar           : /assets/images/yo_recortada.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "¡Hola! Me presento, me llamo María y soy Astrofísica, aunque no me dedico a ello, actualmente soy BI Analyst en Glovo. Siempre me gustaron las matemáticas y la programación, y el mundo de la ciencia de datos me permite poner todo eso en práctica a la vez que genero valor. Me gusta aprender cosas nuevas constantemente.
+  bio              : "¡Hola! Me presento, me llamo María y soy Astrofísica, aunque no me dedico a ello, actualmente soy BI Analyst en Glovo. Siempre me gustaron las matemáticas y la programación, y el mundo de la ciencia de datos me permite poner todo eso en práctica a la vez que genero valor. Me gusta aprender cosas nuevas constantemente."
   location         : "Barcelona"
   email            : maria.gumbao@gmail.com
   links:
